@@ -1,0 +1,8 @@
+globally:
+npm install -g create-react-app 
+create-react-app ticketsales-react
+
+within directory:
+npm run start
+npm uninstall web3
+npm install web3@1.10.3
